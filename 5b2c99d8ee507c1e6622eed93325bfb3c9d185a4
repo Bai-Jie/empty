@@ -22,6 +22,30 @@
       "revId": "5b2c99d8ee507c1e6622eed93325bfb3c9d185a4",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a1371a2_84dd7b45",
+        "filename": "test.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 1004166
+      },
+      "writtenOn": "2015-03-13T15:57:40Z",
+      "side": 0,
+      "message": "Please rebase this commit.",
+      "parentUuid": "3a1371a2_a41cf714",
+      "range": {
+        "startLine": 2,
+        "startChar": 0,
+        "endLine": 2,
+        "endChar": 5
+      },
+      "revId": "5b2c99d8ee507c1e6622eed93325bfb3c9d185a4",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
     }
   ]
 }
